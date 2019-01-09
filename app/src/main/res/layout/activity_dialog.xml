@@ -40,11 +40,11 @@
             android:id="@+id/close"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="bottom|right"
+            android:layout_gravity="bottom|end"
             android:background="@drawable/btn_background"
             android:layout_marginTop="20dp"
-            android:text="Close"
-            android:textColor="#fff"
+            android:text="@string/close"
+            android:textColor="?attr/textOnAccent"
             android:textAppearance="?android:textAppearanceMedium"/>
 
     </LinearLayout>

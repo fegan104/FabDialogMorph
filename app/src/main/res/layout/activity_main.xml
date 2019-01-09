@@ -30,7 +30,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="演示Fab和Dialog切换的动画效果的例子"/>
+            android:text="@string/main_content"/>
 
     </RelativeLayout>
 
@@ -41,6 +41,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/fab_margin"
         android:src="@drawable/fab_add"
+        android:tint="?attr/textOnAccent"
         android:transitionName="@string/transition_dialog"/>
 
 </android.support.design.widget.CoordinatorLayout>

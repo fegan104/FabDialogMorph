@@ -2,4 +2,6 @@
     <string name="app_name">FabDialog</string>
     <string name="title_activity_main">Fab Dialog Morph Animation</string>
     <string name="transition_dialog">transition_dialog</string>
+    <string name="main_content">Example of animating the Fab and Dialog transitions</string>
+    <string name="close">CLOSE</string>
 </resources>
